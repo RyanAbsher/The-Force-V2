@@ -1,0 +1,27 @@
+Reference,Value,Footprint,Mid X,Mid Y,Rotation,Layer
+C1,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,177.9625,-55,0,top
+C2,0.047uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,169.4625,-85,0,top
+C3,0.33uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,174.4625,-88,0,top
+C4,0.33uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,174.4625,-91,0,top
+C5,0.33uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,174.4625,-85,180,top
+C6,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,182.9375,-81.5,0,top
+Q1,MMBT3904,SOT-23,107.05,-64.0625,-90,top
+Q2,MMBT3904,SOT-23,116.45,-64.0625,-90,top
+Q3,MMBT3904,SOT-23,125.25,-64.0625,-90,top
+R1,1k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,103,-56,90,top
+R2,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,106,-70.5,90,top
+R3,1k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,110,-56,90,top
+R4,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,115.5,-70.5,90,top
+R5,1k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,117.5,-56,90,top
+R6,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,124.5,-70.5,90,top
+R7,330R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,149.5,-65,-90,top
+R8,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,139.5,-104,0,top
+R9,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,144.5,-104,0,top
+R10,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,149.5,-104,0,top
+R11,100R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,167,-60,-90,top
+R12,22k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,188.95,-81.5,180,top
+R13,22k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,184.5,-67,-90,top
+R14,22k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,176.5,-67,-90,top
+TR1,4N25S,4N25S,154.3899,-73,-90,top
+U1,SN75176BDR,SOIC-8_3.9x4.9mm_P1.27mm,176.5,-60.5,-90,top
+U2,MAX3222,TSSOP-20_4.4x6.5mm_P0.65mm,183,-87.8,-90,top

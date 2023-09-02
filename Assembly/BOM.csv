@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+0.1uF,"C1,C6",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C49678
+0.047uF,C2,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C53134
+0.33uF,"C3,C4,C5",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C1740
+MMBT3904,"Q1,Q2,Q3",Package_TO_SOT_SMD:SOT-23,C20526
+1k,"R1,R3,R5",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17513
+100R,R11,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17408
+22k,"R12,R13,R14",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17560
+10k,"R2,R4,R6,R8,R9,R10",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17414
+330R,R7,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17630
+4N25S,TR1,footprints:4N25S,C143074
+SN75176BDR,U1,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,C7063
+MAX3222,U2,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,C124672

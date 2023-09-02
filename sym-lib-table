@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "4N25S")(type "Legacy")(uri "${KIPRJMOD}/Symbols/4N25S.lib")(options "")(descr ""))
+)
